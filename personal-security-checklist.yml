@@ -11,6 +11,7 @@
   checklist:
   - point: Use a Strong Password
     priority: essential
+   
     details: >-
       If your password is too short, or contains dictionary words, places or names- then it can be easily
       cracked through brute force, or guessed by someone. A strong password needs to be at least 12 characters long. The easiest way to make a strong password is by
@@ -23,6 +24,7 @@
 
   - point: Don't reuse Passwords
     priority: essential
+    
     details: >-
       If someone was to reuse a password, and one site they had an account with suffered a leak, then a
       criminal could easily gain unauthorized access to their other accounts. This is usually done through
@@ -31,6 +33,7 @@
 
   - point: Save your passwords to the browser
     priority: essential
+    
     details: >-
       [According to research from Dashlane](https://www.dashlane.com/global-password-health-score-report-2022), the average person has about 240 online accounts. It's not going to be possible to remember a strong, unqiue password for all of these.
       But we can let our device do the remembering for us by saving our passwords to the browser. It is easy to do this; when we create an online account, a box will pop up saying "Do you want to save this password?" - just click "yes".
@@ -39,11 +42,13 @@
 
   - point: Avoid sharing passwords
     priority: essential
+    
     details: >-
       Never share your passwords with anyone online. This helps to stop other people being able to access your account. 
 
   - point: Enable 2-Factor Authentication (2FA)
     priority: essential
+    
     details: >-
       2FA is where you must provide both something you know (a password) and something you have (such as a
       code on your phone) to log in. This means that if anyone has got your password (e.g. through phishing,
@@ -54,6 +59,7 @@
 
   - point: Keep Backup Codes Safe
     priority: essential
+    
     details: >-
       When you enable 2FA, you will usually be given several codes that you can use if
       your 2FA method is lost, broken or unavailable. Keep these codes somewhere safe to prevent loss or
@@ -86,6 +92,7 @@
   checklist:
   - point: Block Ads
     priority: essential
+    
     details: >-
       Using an ad-blocker can help improve your privacy, by blocking the trackers that ads implement.
       [uBlock Origin](https://awesome-privacy.xyz/networking/ad-blockers/ublock-origin) is a very
@@ -96,6 +103,7 @@
       load faster, uses less data and provides a less cluttered experience.
 
   - point: Ensure Website is Legitimate
+    priority: essential
    
     details: >-
       It may sound obvious, but when you logging into any online accounts, double check the URL is correct.
@@ -107,6 +115,7 @@
       The only safe detection count is 0. Think of it like snakes in your bed - the only safe number of snakes in your bed is 0. 
 
   - point: Remove Unnecessary Browser Addons
+    priority: essential
     
     details: >-
       Extensions are able to see, log or modify anything you do in the browser, and some innocent looking
@@ -116,6 +125,7 @@
       Only install extensions you really need, and removed those which you haven't used in a while.
 
   - point: Keep Browser Up-to-date
+    priority: essential
     
     details: >-
       Vulnerabilities in your browser are constantly being discovered and fixed (through something called a patch). Making sure your browser is up to date means that cyber criminals can't 
@@ -124,6 +134,7 @@
       Some browsers will auto-update to the latest stable version.
 
   - point: Check for HTTPS
+    priority: essential
    
     details: >-
       At the beginning of a web address will either be HTTP or HTTPS. This is called the protocol. The S in HTTPS stands for secure. 
@@ -134,6 +145,7 @@
       HTTPS is about how your data is transported, not about who the person is at the other end. 
 
   - point: Block Third-Party Cookies
+    priority: essential
     
     details: >-
       Third-party cookies placed on your device by a website other than the one you’re visiting. This
@@ -162,6 +174,7 @@
     
   checklist:
   - point: Have more than one email address
+    priority: essential
     
     details: >-
       Consider using one email address for important accounts like banking, social media or official services (like benefits), and a different address for less important stuff like shopping and newsletters.
@@ -170,12 +183,14 @@
       Having a separate email account also means you can recover your email passwords more easily. 
 
   - point: Keep Email Address Private
+    priority: essential
 
     details: >-
       Do not share your primary email publicly, as mail addresses are often the starting point for most
       phishing attacks.
 
   - point: Keep your Account Secure
+    priority: essential
   
     details: >-
       Use a long and unique password, enable 2FA and be careful while logging in. Your email account
@@ -190,6 +205,7 @@
     But like everything else online, we need to think about staying safe before we send any messages. What do we need to know?
   checklist:
   - point: Only Use Fully End-to-End Encrypted Messengers
+    priority: essential
  
     details: >-
       End-to-end encryption is a system of communication where messages are encrypted on your device and
@@ -198,12 +214,14 @@
       Facebook Messenger is not currently end-to-end encrypted.
       
   - point: Check Security Settings
+    priority: essential
   
     details: >-
       Enable security settings, including contact verification, security notifications, and encryption.
       Disable optional non-security features such as read receipt, last online, and typing notification.
 
   - point: Ensure your Recipient's Environment is Secure
+    priority: essential
    
     details: >-
       Your conversations aren't secure if the person you're speaking to isn't in a secure place. Before sending anything sensitive, 
@@ -230,18 +248,21 @@
     effectively public. 
   checklist:
   - point: Secure your Account
+    priority: essential
     
     details: >-
       Social media profiles get stolen or taken over all too often. To protect your account: use a unique
       and strong password, and enable 2-factor authentication.
 
   - point: Check Privacy Settings
+    priority: essential
   
     details: >-
       Most social networks allow you to control your privacy settings. Ensure that you are comfortable with
       what data you are currently exposing and to whom.
 
   - point: Think of All Interactions as Public and Permanent
+    priority: essential
     
     details: >-
       Even if we set our privacy settings to the most private, we can't guarantee our private content doesn't become available. Someone with access to our content could screenshot and share it, or our account could be hacked.
@@ -249,6 +270,7 @@
       Therefore, before uploading, posting or commenting on anything, think "Would I mind if this was totally public for the rest of my life?"
 
   - point: Don't Reveal too Much
+    priority: essential
    
     details: >-
       When you create your profile on some social media platforms, you are encouraged to give as much detail about yourself as possible.
@@ -256,18 +278,21 @@
       uploading things like your date of birth, your hometown, and where you went to school.
 
   - point: Be Careful with what you Upload
+    priority: essential
 
     details: >-
       Status updates, comments, check-ins, images and videos can unintentionally reveal a lot more than you intended
       them to. This is especially relevant to photos and videos, which may show things in the background.
 
   - point: Don't Share Email or Phone Number
+    priority: essential
 
     details: >-
       Never post your real email address or mobile number. Cyber criminals want these to help target 
       scams towards you. 
       
   - point: Don't Grant Unnecessary Permissions
+    priority: essential
     
     details: >-
       When you download a social media platform's app, the app usually wants permission to do lots of things on your device. 
@@ -277,6 +302,7 @@
 
   
   - point: Avoid Publishing your location while still Onsite
+    priority: essential
   
     details: >-
       If you plan to share any content that reveals where you are, then wait until you have left that place.
@@ -292,6 +318,7 @@
     including configuring your router and setting up a VPN.
   checklist:
   - point: Use a Virtual Private Network (VPN) while in public
+    priority: essential
 
     details: >-
       A Virtual Private Network (VPN) is a way of connecting to the internet that is much safer than using public wifi. In simple terms, a VPN uses an encrypted (unbreakable code) connection to connect your device 
@@ -300,6 +327,7 @@
       they can be passing your details to cyber criminals. You need to use a paid for service with a good reputation. 
       
   - point: Change your Router's admin Password
+    priority: essential
   
     details: >-
       After getting a new router, change the password. Default admin passwords are publicly available,
@@ -307,6 +335,7 @@
 
 
   - point: Keep router firmware up-to-date
+    priority: essential
     
     details: >-
       Manufacturers release firmware updates that fix security vulnerabilities, implement new standards, and
@@ -341,18 +370,21 @@
    
   checklist:
   - point: Encrypt your Device
+    priority: essential
    
     details: >-
       In order to keep your data safe from physical access, use file encryption. This will mean if your
       device is lost or stolen, no one will have access to your data.
 
   - point: Turn off connectivity features that aren’t being used
+    priority: essential
     
     details: >-
       When you're not using WiFi or Bluetooth, turn those features off. There are several common threats
       that use these features. 
 
   - point: Keep app count to a minimum
+    priority: essential
   
     details: >-
       Uninstall apps that you don’t need or use regularly. If you have apps on your device that you never use, these can
@@ -361,6 +393,7 @@
       
       
   - point: App Permissions
+    priority: essential
    
     details: >-
       Don’t grant apps permissions that they don’t need. For example, if you have a supermarket's app on your device, it might ask for
@@ -369,6 +402,7 @@
       and secondly, if that app is the victim of a cyber attack, all of the extra data would be in the hands of a cyber criminal.
 
   - point: Only install Apps from official source
+    priority: essential
   
     details: >-
       If you see an app online - for example, on social media - you might want to download it. But if we download an app through a website we 
@@ -376,6 +410,7 @@
       Apps downloaded through these official app stores are screened for malware, so are more likely to be safe. 
 
   - point: Avoid text messages (SMS) for  two factor authentication (2FA)
+    priority: essential
     
     details: >-
        Text messages (SMS) should not be used to receive two factor authentication (2FA) codes. Cyber criminals have been able to take over people's phone humbers and this 
@@ -392,18 +427,21 @@
     compromised can have detrimental effects.
   checklist:
   - point: Keep your System up-to-date
+    priority: essential
    
     details: >-
       System updates contain fixes/patches for security issues, improve performance, and sometimes add new
       features. Install new updates when prompted.
 
   - point: Encrypt your Device
+    priority: essential
    
     details: >-
       Use BitLocker for Windows, FileVault on MacOS, or LUKS on Linux, to enable full disk encryption. This
       prevents unauthorized access if your computer is lost or stolen.
 
   - point: Backup Important Data
+    priority: essential
     
     details: >-
       Maintaining encrypted backups prevents loss due to ransomware, theft, or damage. Consider using
@@ -411,35 +449,41 @@
       for cloud files or [VeraCrypt](https://awesome-privacy.xyz/essentials/file-encryption/veracrypt) for USB drives.
 
   - point: Activate Screen-Lock when Idle
+    priority: essential
  
     details: >-
       Lock your computer when away and set it to require a password on resume from screensaver or sleep to
       prevent unauthorized access.
 
   - point: Review your Installed Apps
+    priority: essential
  
     details: >-
       Keep installed applications to a minimum to reduce exposure to vulnerabilities and regularly clear
       application caches.
 
   - point: Manage Permissions
+    priority: essential
    
     details: >-
       Control which apps have access to your location, camera, microphone, contacts, and other sensitive
       information.
 
   - point: Avoid Quick Unlock
+    priority: essential
     
     details: >-
       Use a strong password instead of biometrics or short PINs for unlocking your computer to enhance
       security.
 
   - point: Power Off Computer, instead of Standby
+    priority: essential
     
     details: >-
       Shut down your device when not in use, especially if your disk is encrypted, to keep data secure.
  
   - point: Block Webcam + Microphone
+    priority: essential
    
     details: >-
       Cover your webcam when not in use and consider blocking unauthorized audio recording to protect privacy.
@@ -472,31 +516,37 @@
     internet-connected home devices.
   checklist:
   - point: Rename devices to not specify brand/model
+    priority: essential
     
     details: >-
       Change default device names to something generic to prevent targeted attacks by obscuring brand or model information.
 
   - point: Disable microphone and camera when not in use
+    priority: essential
     
     details: >-
       Use hardware switches to turn off microphones and cameras on smart devices to protect against accidental recordings or targeted access.
 
   - point: Set privacy settings, and opt out of sharing data with third parties
+    priority: essential
    
     details: >-
       Adjust app settings for strictest privacy controls and opt-out of data sharing with third parties wherever possible.
 
   - point: Don't link your smart home devices to your real identity
+    priority: essential
    
     details: >-
       Use anonymous usernames and passwords, avoiding sign-up/log-in via social media or other third-party services to maintain privacy.
 
   - point: Keep firmware up-to-date
+    priority: essential
     
     details: >-
       Regularly update smart device firmware to apply security patches and enhancements.
 
   - point: Protect your Network
+    priority: essential
     
     details: >-
       Secure your home WiFi and network to prevent unauthorized access to smart devices.
@@ -513,47 +563,56 @@
 
   checklist:
   - point: Verify Recipients
+    priority: essential
     
     details: >-
       Emails can be easily spoofed. Verify the sender's authenticity, especially for sensitive actions, and prefer entering URLs manually rather than clicking links in emails.
 
   - point: Don't Trust Your Popup Notifications
+    priority: essential
    
     details: >-
       Fake pop-ups can be deployed by malicious actors. Always check the URL before entering any information on a popup.
 
   - point: Never Leave Device Unattended
+    priority: essential
   
     details: >-
       Unattended devices can be compromised even with strong passwords. Use encryption and remote erase features like Find My Phone for lost devices.
 
   - point: Prevent Camfecting
+    priority: essential
     
     details: >-
       Protect against camfecting by using webcam covers and microphone blockers. Mute home assistants when not in use or discussing sensitive matters.
 
   - point: Stay protected from shoulder surfers
+    priority: essential
    
     details: >-
       Use privacy screens on laptops and mobiles to prevent others from reading your screen in public spaces.
 
   - point: Educate yourself about phishing attacks
+    priority: essential
   
     details: >-
       Be cautious of phishing attempts. Verify URLs, context of received messages, and employ good security practices like using 2FA and not reusing passwords.
 
   - point: Install Reputable Software from Trusted Sources
+    priority: essential
    
     details: >-
       Only download software from legitimate sources and check files with tools
       like [Virus Total](https://awesome-privacy.xyz/security-tools/online-tools/virus-total) before installation.
 
   - point: Store personal data securely
+    priority: essential
 
     details: >-
       Ensure all personal data on devices or in the cloud is encrypted to protect against unauthorized access.
 
   - point: Do not assume a site is secure, just because it is `HTTPS`
+    priority: essential
     
     details: >-
       HTTPS does not guarantee a website's legitimacy. Verify URLs and exercise caution with personal data.
