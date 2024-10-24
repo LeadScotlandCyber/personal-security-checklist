@@ -10,7 +10,7 @@
     2-factor authentication, keep on top of breaches and take care while logging into your accounts.
   checklist:
   - point: Use a Strong Password
-    
+    priority: essential
     details: >-
       If your password is too short, or contains dictionary words, places or names- then it can be easily
       cracked through brute force, or guessed by someone. A strong password needs to be at least 12 characters long. The easiest way to make a strong password is by
@@ -22,7 +22,7 @@
       Want to learn more about creating strong passwords? Check out the [How to create a secure password](https://my.lead.org.uk/?sfwd-courses=cyber-how-to-create-a-secure-password&utm_source=DigiTool&utm_medium=healthchecker&utm_campaign=personalsecurity) course on My.Lead
 
   - point: Don't reuse Passwords
-  
+    priority: essential
     details: >-
       If someone was to reuse a password, and one site they had an account with suffered a leak, then a
       criminal could easily gain unauthorized access to their other accounts. This is usually done through
@@ -30,7 +30,7 @@
       too common, but it's simple to protect against- use a different password for each of your online accounts
 
   - point: Save your passwords to the browser
-    
+    priority: essential
     details: >-
       [According to research from Dashlane](https://www.dashlane.com/global-password-health-score-report-2022), the average person has about 240 online accounts. It's not going to be possible to remember a strong, unqiue password for all of these.
       But we can let our device do the remembering for us by saving our passwords to the browser. It is easy to do this; when we create an online account, a box will pop up saying "Do you want to save this password?" - just click "yes".
@@ -38,12 +38,12 @@
       
 
   - point: Avoid sharing passwords
-  
+    priority: essential
     details: >-
       Never share your passwords with anyone online. This helps to stop other people being able to access your account. 
 
   - point: Enable 2-Factor Authentication (2FA)
-    
+    priority: essential
     details: >-
       2FA is where you must provide both something you know (a password) and something you have (such as a
       code on your phone) to log in. This means that if anyone has got your password (e.g. through phishing,
@@ -53,7 +53,7 @@
       (it works without internet, and the code usually changes every 30-seconds)
 
   - point: Keep Backup Codes Safe
-    
+    priority: essential
     details: >-
       When you enable 2FA, you will usually be given several codes that you can use if
       your 2FA method is lost, broken or unavailable. Keep these codes somewhere safe to prevent loss or
@@ -64,6 +64,7 @@
   slug: web-browsing
   description: Avoiding tracking, censorship, and data collection online
   icon: browser
+  color: red
   intro: >-
     Most websites on the internet will use some form of tracking, often to gain
     insight into their users behaviour and preferences. This data can be incredibly
@@ -84,7 +85,7 @@
     minimise online tracking and improve privacy.
   checklist:
   - point: Block Ads
-    
+    priority: essential
     details: >-
       Using an ad-blocker can help improve your privacy, by blocking the trackers that ads implement.
       [uBlock Origin](https://awesome-privacy.xyz/networking/ad-blockers/ublock-origin) is a very
