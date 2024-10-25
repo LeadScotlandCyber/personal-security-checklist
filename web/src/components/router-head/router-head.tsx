@@ -9,7 +9,7 @@ export const RouterHead = component$(() => {
   return (
     <>
       {/* Basics */}
-      <title>{head.title || 'Digital Defense - The ultimate personal security checklist to secure your digital life'}</title>
+      <title>{head.title || 'Digital.Lead - The ultimate personal security checklist to secure your digital life'}</title>
       <meta name="description" content="The ultimate personal security checklist to secure your digital life" />
       
       {/* Site config */}
