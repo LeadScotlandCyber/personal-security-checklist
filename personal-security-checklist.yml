@@ -159,7 +159,7 @@
   slug: email
   description: Protecting the gateway to your online accounts
   icon: email
-  color:orange
+  color: orange
   intro: >-
    Although the first email was sent more than 50 years ago, it's still very much a big part
     of our day-to-day life. Considering how much trust we put in them, it's surprising to find out how fundamentally insecure this
