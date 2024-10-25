@@ -159,6 +159,7 @@
   slug: email
   description: Protecting the gateway to your online accounts
   icon: email
+  color:orange
   intro: >-
    Although the first email was sent more than 50 years ago, it's still very much a big part
     of our day-to-day life. Considering how much trust we put in them, it's surprising to find out how fundamentally insecure this
@@ -201,6 +202,7 @@
   slug: messaging
   description: Keeping your communications private and secure
   icon: messaging
+  color: magenta
   intro: One of the things we use our devices - especially our phones - for is messaging. We might use services like WhatsApp, Facebook Messenger, or Telegram. Messaging is a great way to keep in touch, share news, and share important files. 
     But like everything else online, we need to think about staying safe before we send any messages. What do we need to know?
   checklist:
@@ -235,6 +237,7 @@
   slug: social-media
   description: Minimising the risks that come with connecting to people online
   icon: social
+  color: cyan
   intro: >
     Online communities have existed since the invention of the internet, and give
     people around the world the opportunity to connect, communicate and share.
@@ -313,6 +316,7 @@
   slug: networks
   description: Safeguarding your network traffic
   icon: network
+  color: violet
   intro: >
     This section covers how you connect your devices to the internet securely,
     including configuring your router and setting up a VPN.
@@ -347,6 +351,7 @@
   slug: mobile-devices
   description: Reduce invasive tracking for cells, smartphones and tablets
   icon: mobile
+  color: gray
   intro: >
     Smart phones have revolutionized so many aspects of life and brought the world
     to our fingertips. For many of us, smart phones are our primary means of communication,
@@ -421,6 +426,7 @@
   slug: personal-computers
   description: Securing your PC's operating system, data & activity
   icon: computer
+  color: brown
   intro: >
     Although Windows and OS X are easy to use and convenient, they both are far from secure.
     Your OS provides the interface between hardware and your applications, so if
@@ -492,6 +498,7 @@
   slug: smart-home
   description: Using IoT devices without compromising your privacy
   icon: home
+  color: white
   intro: >-
     Home assistants (such as Google Home, Alexa and Siri) and other internet connected
     devices collect large amounts of personal data (including voice samples, location data,
@@ -556,6 +563,7 @@
   slug: human-aspect
   description: Avoiding social engineering security risks
   icon: human
+  color: green
   intro: >-
     Many data breaches, hacks and attacks are caused by human error.
     The following list contains steps you should take, to reduce the risk of this
