@@ -202,7 +202,7 @@
   slug: messaging
   description: Keeping your communications private and secure
   icon: messaging
-  color: magenta
+  color: pink
   intro: One of the things we use our devices - especially our phones - for is messaging. We might use services like WhatsApp, Facebook Messenger, or Telegram. Messaging is a great way to keep in touch, share news, and share important files. 
     But like everything else online, we need to think about staying safe before we send any messages. What do we need to know?
   checklist:
@@ -426,7 +426,7 @@
   slug: personal-computers
   description: Securing your PC's operating system, data & activity
   icon: computer
-  color: brown
+  color: indigo
   intro: >
     Although Windows and OS X are easy to use and convenient, they both are far from secure.
     Your OS provides the interface between hardware and your applications, so if
@@ -498,7 +498,7 @@
   slug: smart-home
   description: Using IoT devices without compromising your privacy
   icon: home
-  color: white
+  color: lime
   intro: >-
     Home assistants (such as Google Home, Alexa and Siri) and other internet connected
     devices collect large amounts of personal data (including voice samples, location data,
