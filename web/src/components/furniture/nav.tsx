@@ -74,9 +74,9 @@ export default component$(() => {
             <label class="cursor-pointer grid place-items-center">
               <input
                 type="checkbox"
-                checked={theme.theme === 'light'}
+                checked={theme.theme === 'dark'}
                 onClick$={() => {
-                  setTheme(theme.theme === 'light' ? 'light' : 'dark');
+                  setTheme(theme.theme === 'dark' ? 'light' : 'dark');
                 }}
                 class="toggle theme-controller bg-base-content row-start-1 col-start-1 col-span-2"
               />
