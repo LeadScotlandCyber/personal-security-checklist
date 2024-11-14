@@ -1,6 +1,7 @@
 import { useDocumentHead, useLocation } from "@builder.io/qwik-city";
 
 import { component$ } from "@builder.io/qwik";
+import { Analytics } from "../analytics/analytics";
 
 export const RouterHead = component$(() => {
   const head = useDocumentHead();
