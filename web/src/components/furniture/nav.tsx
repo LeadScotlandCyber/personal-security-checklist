@@ -5,7 +5,7 @@ import type { Section } from '~/types/PSC';
 import { useTheme } from '~/store/theme-store';
 import articles from '~/data/articles';
 import { ChecklistContext } from '~/store/checklist-context';
-import { trackEvent } from "..analytics/trackEvent";
+import { trackEvent } from "../analytics/trackEvent";
 
 export default component$(() => {
 
