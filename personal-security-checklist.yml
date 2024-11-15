@@ -18,8 +18,7 @@
       adding three random words together. Alternatively,
       use a password generator to create a long, strong random password. Have a play with
       [HowSecureIsMyPassword.net](https://howsecureismypassword.net), to get an idea of how quickly common
-      passwords can be cracked. Read more about creating strong passwords:
-      [securityinabox.org](https://securityinabox.org/en/passwords/passwords-and-2fa/)
+      passwords can be cracked.
       Want to learn more about creating strong passwords? Check out the [How to create a secure password](https://my.lead.org.uk/?sfwd-courses=cyber-how-to-create-a-secure-password&utm_source=DigiTool&utm_medium=healthchecker&utm_campaign=personalsecurity) course on My.Lead
 
   - point: Don't reuse Passwords
@@ -37,7 +36,7 @@
     details: >-
       [According to research from Dashlane](https://www.dashlane.com/global-password-health-score-report-2022), the average person has about 240 online accounts. It's not going to be possible to remember a strong, unqiue password for all of these.
       But we can let our device do the remembering for us by saving our passwords to the browser. It is easy to do this; when we create an online account, a box will pop up saying "Do you want to save this password?" - just click "yes".
-      It might feel like we shouldn't save our passwords to the browser, but doing this is the safest way of protecting your passwords. 
+      It might feel like we shouldn't save our passwords to the browser, but doing this is the safest way of protecting your passwords. Find out [how to save your passwords to the browser](https://my.lead.org.uk/courses/cyber-how-to-save-passwords-to-the-browser/) with our free course.
       
 
   - point: Avoid sharing passwords
@@ -55,7 +54,7 @@
       malware or a data breach), they will not be able to log into your account. It's easy to get started,
       download an authenticator app (such as Authenticator) onto your phone, and then go to your account security settings and follow the steps to enable 2FA. Next
       time you log in on a new device, you will be prompted for the code that displays in the app on your phone
-      (it works without internet, and the code usually changes every 30-seconds)
+      (it works without internet, and the code usually changes every 30-seconds). Find out more about [how to use 2FA] (https://my.lead.org.uk/courses/cyber-how-to-turn-on-two-step-verification/) with our course.
 
   - point: Keep Backup Codes Safe
     priority: essential
