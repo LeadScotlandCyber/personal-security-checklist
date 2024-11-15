@@ -141,7 +141,7 @@
       is available to be read by anyone who intercepts it. You should only enter any information into a website with an HTTPS protocol. The protocol is often shown as either a green
       or black padlock (HTTPS) or a broken padlock or a warning triangle (HTTP). 
       However, it is important to remember that this doesn't mean the website is safe - cybercriminals set up fake websites with HTTPS addresses because they look legitimate. 
-      HTTPS is about how your data is transported, not about who the person is at the other end. 
+      HTTPS is about how your data is transported, not about who the person is at the other end. Check out our course on [how to shop safely online] (https://my.lead.org.uk/courses/cyber-how-to-shop-online-safely/)for more information about https.
 
   - point: Block Third-Party Cookies
     priority: essential
